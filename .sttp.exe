@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+linetoadd=""
+echo -e "\e[1m\e[0;36mCustomization:"
+echo -ne "\e[0;94mReplace '@': "
